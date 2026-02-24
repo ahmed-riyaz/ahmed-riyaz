@@ -78,14 +78,14 @@ I'm a passionate Python/Java Developer and Software Engineer who spins complex p
 ## 🏆 Professional Journey
 
 ### 💼 Experience
-- **Python/Java Developer** at **Tech Power Solutions** (April 2023 - March 2024)
+- **Python/Java Developer** at **Tech Power Solutions**
   - Developed automation solutions and robust applications
   - Collaborated with cross-functional teams on diverse projects
   - Maintained high coding standards and best practices
 
 ### 🎓 Education & Certifications
-- **Information Technology Solutions** - Humber Polytechnic (Sept 2024 - Present)
-- **Bachelor of Engineering in Computer Science** - Karpagam Academy (2018-2022)
+- **Information Technology Solutions** - Humber Polytechnic
+- **Bachelor of Engineering in Computer Science** - Karpagam Academy
 - **Fundamentals of Cybersecurity** - Cisco Networking Academy
 - **Digital Marketing & Ethical Hacking** - Ventakessan FinishUp, Inc.
 
@@ -120,3 +120,4 @@ I'm a passionate Python/Java Developer and Software Engineer who spins complex p
 *Last Updated: June 16, 2025*
 
 </div>
+
