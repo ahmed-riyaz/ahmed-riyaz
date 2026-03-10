@@ -109,6 +109,59 @@ I'm a passionate Python/Java Developer and Software Engineer who spins complex p
 - 📊 Expanding data analysis and visualization skills
 - 🌱 Contributing to open-source projects
 
+## 🚀 Portfolio Website
+
+This repository includes both a static HTML portfolio and a Streamlit web app version!
+
+### 🌐 Static HTML Version
+Open `index.html` in your browser to view the static portfolio website.
+
+### ⚡ Streamlit Version
+
+#### Local Development
+Run the portfolio as a Streamlit app:
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app.py
+```
+
+The app will be available at `http://localhost:8501`
+
+#### Deploy to Streamlit Cloud
+
+1. Fork this repository
+2. Go to [Streamlit Cloud](https://share.streamlit.io/)
+3. Sign in with your GitHub account
+4. Click "New app"
+5. Select this repository
+6. Set main file path to: `app.py`
+7. Click "Deploy"
+
+Your portfolio will be live at: `https://share.streamlit.io/[your-username]/ahmed-riyaz/main/app.py`
+
+#### Deploy to Other Platforms
+
+**Heroku:**
+```bash
+# Create Procfile
+echo "web: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0" > Procfile
+
+# Deploy
+heroku create your-app-name
+git push heroku main
+```
+
+**Docker:**
+```bash
+# Build and run
+docker build -t portfolio-app .
+docker run -p 8501:8501 portfolio-app
+```
+
 ---
 
 <div align="center">
