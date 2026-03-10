@@ -4,3 +4,14 @@ package.json
 *.png
 *.jpg
 *.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.streamlit/secrets.toml
